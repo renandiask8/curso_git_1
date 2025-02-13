@@ -1,5 +1,2 @@
 testando repo 1
 a
-b
-c
-d
